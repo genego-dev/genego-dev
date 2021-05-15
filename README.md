@@ -1,6 +1,11 @@
 ### Hi there 👋
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genego-dev&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api//?username=genego-dev&theme=dark" />
+
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genego-dev&theme=dark" />      | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genego-dev&theme=dark" />| **Required**. Id of item to fetch |
 
 
 
