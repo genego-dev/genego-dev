@@ -4,7 +4,7 @@
 
 # Hello, folks!
 
-My name is Edwin Genego, I am a software developer fropm the Netherlands.
+My name is Edwin Genego, I am a software developer from the Netherlands.
 
 ----
 
