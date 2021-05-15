@@ -1,5 +1,5 @@
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genego-dev&theme=light" />    | <img align="center" src="https://github-readme-stats.vercel.app/api/?username=genego-dev&theme=dark" /> | 
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genego-dev&theme=light" />    | <img align="center" src="https://github-readme-stats.vercel.app/api/?username=genego-dev&theme=white" /> | 
 
 
 - 🌱 I’m currently learning ...
