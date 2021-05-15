@@ -4,7 +4,7 @@
 
 # Hello, folks!
 
-My name is Edwin Genego, I am a software developer from the Netherlands. I have been learning CS and Programming for the past 5+ years, and am always looking for new challenges to master. I'm currently employed as Jr. Backend Developer, working with Python, Django and Django-rest-framework. Mid 2021 I started focusing on the front-end by attacking HTML/CSS and Javascript so I can start working on full-stack projects and products in the near future.
+My name is Edwin Genego, I am a software developer from the Netherlands. I have been learning CS and Programming for the past 5+ years, and am always looking for new challenges to master. I'm currently employed as Jr. Backend Developer, working with Python, Django and the Django-rest-framework. But I am also slowly getting the hang of HTML/CSS & Javascript while building full-stack applications.
 
 ----
 
