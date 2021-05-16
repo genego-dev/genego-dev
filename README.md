@@ -6,7 +6,7 @@
 
 My name is Edwin I am a software developer from the Netherlands. I have been learning CS and Programming for the past 5+ years, and am always looking for new challenges to master. I'm a experienced sys-admin with a background as a hardware technician. I'm currently employed as Jr. Backend developer working with Python & Django. Lately I have also been spending a lot of time working on front-end apps, going down the path of solo full-stack development. 
 
-Freelancing, looking for work, and very open to collaborate on projects. 
+🌱 Freelancing, looking for work, and very open to collaborate on projects. 
 
 ----
 
